@@ -1,0 +1,2 @@
+- sync s3 bucket locally
+- create classes.txt
